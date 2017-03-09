@@ -1,5 +1,5 @@
 # WaveView
-WaveView like qq voice chat
+WaveView
 #### thanks
  * http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1180
  * http://blog.csdn.net/drkcore/article/details/51822818
